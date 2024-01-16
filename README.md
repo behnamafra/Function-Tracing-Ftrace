@@ -33,7 +33,7 @@ echo 1 > tracing_on
 
 echo 0 > tracing_on
 
-# then show result
+# Show result
 
 cat trace
 ```
