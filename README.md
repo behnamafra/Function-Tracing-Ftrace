@@ -1,8 +1,5 @@
 # Function-Tracing-Ftrace
 
-
-# Function_Tracing
-
 # TCP/IP Protocol Stack Function Trace Analysis
 
 ## Overview
