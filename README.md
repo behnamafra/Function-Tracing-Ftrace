@@ -24,10 +24,16 @@ echo function-graph > current_tracer
 The analysis was performed during the download of a file to observe the function calls related to the TCP/IP protocol stack.
 With command `echo 1 > tracing_on`, you can start tracing and then stop tracing with `echo 0 > tracing_on` after downloading a file. and view the output with `cat trace`.
 ```console
+
+# Start
+
 echo 1 > tracing_on
-then
+
+# Stop
+
 echo 0 > tracing_on
-then 
+
+# then show result
 
 cat trace
 ```
